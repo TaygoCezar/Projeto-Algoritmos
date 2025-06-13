@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Questão 7
 int main() 
 {
     int r = 10;

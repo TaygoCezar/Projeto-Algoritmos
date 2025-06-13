@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Questão 4
 int main() {
     int r, sum;
     sum = 0;

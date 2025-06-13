@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Questão 6
 int main() 
 {
     int n, factorial = 1, i;
